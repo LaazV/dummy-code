@@ -1,6 +1,6 @@
 Dummy Code
 ================
 
-Somente alguns códigos toscos feitos em pedidos em comunidades do facebook, desafios, e códigos randômicos que simplesmente deram vontade de ser programados
+Somente alguns códigos aleatórios de pedidos de ajuda em comunidades, desafios, e coisas randômicas que simplesmente deram vontade de fazer mas que não são grandes (ou com impacto) suficiente pra criar um repositório próprio.
 
-Bugs inclusos
+Bugs inclusos. Esforço zero.
